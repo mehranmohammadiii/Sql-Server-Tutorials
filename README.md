@@ -49,9 +49,8 @@ Here’s a breakdown of the concepts and techniques included in this tutorial re
 
 1. Clone this repository to your local machine.
 2. Open the `.sql` files with SQL Server Management Studio (SSMS).
-3. Connect to your test database (for example: AdventureWorks or Chinook).
+3. Connect to your test database (for example: dbshop__DjiKala).
 4. Run, analyze, and modify the scripts to enhance your understanding.
-5. Use this project as your SQL Server playground!
 
 ---
 
@@ -81,3 +80,8 @@ If you have questions or suggestions, open an issue — I’ll be happy to help!
 Thanks for checking out **Sql-Server-Tutorials** —  
 Keep practicing, and happy learning! 🎯
 
+---
+
+## 👨‍💻 Author
+Created by mehranmohammadiii
+• [GitHub](https://github.com/mehranmohammadiii)   • [LinkedIn](www.linkedin.com/in/mehran-mohammadi-ceo)
