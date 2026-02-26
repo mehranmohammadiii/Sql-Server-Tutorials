@@ -21,7 +21,7 @@ Here’s a breakdown of the concepts and techniques included in this tutorial re
 - 🏗️ **Data Definition** — Understand table creation, alteration, and deletion.
 - 🔀 **EXCEPT, UNION, INTERSECT** — Practice combining and filtering datasets.
 - 🧮 **Group By** — Group and summarize your query results.
-- ⚡ **Indexes** — Improve query performance using indexing techniques.
+- ⚡ **Indexes** — Improve query performance using indexing techniques. 
 - 🔗 **Join Tables** — Learn how to combine data from multiple tables.
 - 🔍 **LIKE & DISTINCT** — Perform pattern matching and remove duplicates.
 - 🧠 **Logical Operators** — Use `AND`, `OR`, `NOT` for logical control.
